@@ -1,0 +1,5 @@
+DEBUG   2018-12-13 22:40:37,430 [http-listener-1(2)] test.Log4JServlet  - debug message
+INFO    2018-12-13 22:40:37,440 [http-listener-1(2)] test.Log4JServlet  - info message
+WARN    2018-12-13 22:40:37,441 [http-listener-1(2)] test.Log4JServlet  - warn message
+ERROR   2018-12-13 22:40:37,441 [http-listener-1(2)] test.Log4JServlet  - error message
+FATAL   2018-12-13 22:40:37,441 [http-listener-1(2)] test.Log4JServlet  - fatal message
